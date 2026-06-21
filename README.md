@@ -1,38 +1,92 @@
-⚡ Energy Consumption Dashboard
-📌 Project Overview
+# ⚡ Energy Consumption Dashboard
 
-This Power BI dashboard provides insights into energy usage, cost, peak demand, and CO₂ emissions across different departments over the period 2024–2025.
+## 📌 Project Overview
 
-The dashboard enables monitoring of energy performance and comparison between departments using interactive visualizations and filters.
+This Power BI dashboard analyzes energy consumption, energy costs, peak demand, and CO₂ emissions across different departments during the period 2024–2025.
 
-📊 Dashboard Features
-KPI Cards
-⚡ Total Energy Consumption
-💰 Total Energy Cost
-🌿 Total CO₂ Emissions
-⚡ Peak Demand
-Visualizations
-Monthly Energy Consumption Trend
-Energy Cost Trend
-Energy Consumption by Department
-Cost Distribution
-CO₂ Emissions Trend
-Peak Demand Trend
-Filters
-Year Slicer
-Department Slicer
-🛠 Tools Used
-Power BI
-Microsoft Excel
-📂 Dataset
+The dashboard provides interactive visualizations and filters to help monitor energy performance and support data-driven decisions.
 
-The dataset contains operational data from four departments:
+---
 
-Production
-HVAC
-Lighting
-Offices
+## 📊 Dashboard Features
 
-Period covered:
+- ⚡ Total Energy Consumption KPI
+- 💰 Total Energy Cost KPI
+- 🌿 Total CO₂ Emissions KPI
+- ⚡ Peak Demand KPI
+- 📈 Monthly Energy Consumption Trend
+- 💰 Energy Cost Trend
+- ⚡ Peak Demand Trend
+- 🏭 Energy Consumption by Department
+- 🌿 CO₂ Emissions Trend
+- 🥧 Energy Cost Distribution
+- 🔍 Interactive Filters and Slicers
 
-2024–2025
+---
+
+## 🏭 Departments Included
+
+- Production
+- HVAC
+- Lighting
+- Offices
+
+---
+
+## 🛠 Tools Used
+
+- Power BI
+- Microsoft Excel
+- DAX
+- Data Visualization
+
+---
+
+## 📂 Dataset
+
+Simulated operational energy data covering:
+
+**Period:** 2024–2025
+
+---
+
+## 📷 Dashboard Preview
+
+![Energy Consumption Dashboard](dashboard.png)
+
+---
+
+## 🎯 Key Insights
+
+- Production department has the highest energy consumption.
+- Energy costs vary significantly across departments.
+- Peak demand trends can be monitored over time.
+- CO₂ emissions are directly related to energy usage patterns.
+- Interactive filters allow detailed analysis by department.
+
+---
+
+## 🚀 Future Improvements
+
+- Add forecasting and trend analysis.
+- Include energy efficiency KPIs.
+- Connect to real-time IoT data.
+- Add monthly and yearly comparison reports.
+
+---
+
+## 👩 Author
+
+**Fatme Kaakour**
+
+Junior Data Analyst | Electrical Engineer
+
+### Skills
+
+- Power BI
+- DAX
+- Excel
+- Data Visualization
+- Data Analysis
+
+GitHub: https://github.com/elkaakourfatme-bot
