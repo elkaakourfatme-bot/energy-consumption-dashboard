@@ -52,7 +52,7 @@ Simulated operational energy data covering:
 
 ## 📷 Dashboard Preview
 
-![Energy Consumption Dashboard](dashboard.png)
+!dashboard_screenshot.png(dashboard.png)
 
 ---
 
